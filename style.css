@@ -57,7 +57,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: linear-gradient(90deg,rgba(114, 4, 204, 1) 0%, rgba(186, 11, 217, 1) 100%);
+; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
